@@ -93,6 +93,7 @@ h4 {
   font-weight: bold;
   font-size: 2rem;
   margin-bottom: 2.5rem;
+  margin-top: 2rem;
 }
 
 .s2 h4 {
@@ -535,7 +536,7 @@ header p {
 .timeline-item .timeline-img-header {
   /*background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://picsum.photos/1000/800/?random") center center no-repeat;*/
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
-  background-size: cover;
+  background-size: auto;
 
 }
 
