@@ -139,10 +139,7 @@ let footer = $(`
           </div>
         </div>
     </div>
-
-
     
-
     <div class="rounded-social-buttons tag">
     <a class="social-button twitter" href="https://mobile.twitter.com/aldoalfiyanv" target="_blank">
     <!-- SVG code for twitter icon -->
@@ -409,3 +406,4 @@ $(window).on("load", function () {
   }, 1000);
   $(".loader-container").fadeOut(2500);
 });
+
