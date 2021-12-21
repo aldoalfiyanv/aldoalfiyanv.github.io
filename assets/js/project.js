@@ -10,7 +10,7 @@ const projects = [
     cardImage: "assets/images/project-page/Ensiklopedia.jpg",
     description: "",
     tagimg: "",
-    Previewlink: "",
+    Previewlink: "http://35.219.8.90:8084/",
     Githublink: "",
   },
   {
@@ -19,14 +19,14 @@ const projects = [
     description: "",
     tagimg: "",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/aldoalfiyanv/WebMonitor-RobotUVC",
   },
   {
     title: "Healme.id Company Profile",
     cardImage: "assets/images/project-page/healmecompro.png",
     description: "",
     tagimg: "",
-    Previewlink: "",
+    Previewlink: "https://www.healme.id/",
     Githublink: "",
   }
 ];

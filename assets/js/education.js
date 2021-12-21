@@ -26,7 +26,7 @@ const moocscards = [
   },
   {
     title: "Microsoft Office Application",
-    cardImage: "assets/images/education-page/tikom.jpg",
+    cardImage: "assets/images/education-page/BNSP.png",
     moocLink: "",
   }
 ];

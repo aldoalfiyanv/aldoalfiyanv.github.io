@@ -6,10 +6,17 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "IT Strategic/Business Partner",
+    cardImage: "assets/images/experience-page/BNI.jpg",
+    place: "PT Bank Negara Indonesia(Persero) Tbk",
+    time: "(December 2021 - Present)",
+    desp: "<li>Part of Information Technology Strategy And Architecture (STI) Division From BNI TECHSHIP Program.</li> <li>Create Business Design Document.</li><li>Support IT Business Analyst And Project Manager.</li>",
+  },
+  {
     title: "Back End Developer",
     cardImage: "assets/images/experience-page/BNI.jpg",
     place: "PT Bank Negara Indonesia(Persero) Tbk",
-    time: "(June, 2021 - Present)",
+    time: "(June, 2021 - December 2021)",
     desp: "<li>Part of Information Technology Strategy And Architecture (STI) Division From BNI TECHSHIP Program.</li> <li>Using Tools ASP.NET Entity Framework Core 5.0 as Web API Develop.</li>",
   },
   {
@@ -23,7 +30,7 @@ const exp = [
     title: "Information Technology Director",
     cardImage: "assets/images/experience-page/Healme.png",
     place: "Healme.id",
-    time: "(September, 2021 - Present)",
+    time: "(September, 2021 - October)",
     desp:"<li>Create a Web and It's Support For Mental Health Campaigns.</li><li>Recruiter Volunteer.</li>",
   },
 ];
@@ -63,12 +70,6 @@ document.addEventListener("DOMContentLoaded", showCards2);
 
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
-  {
-    title: "Himpunan Mahasiswa Prodi Teknik Komputer",
-    cardImage: "assets/images/experience-page/HIMA.png",
-    description:
-      "2018-2021</br><p><b>Member</b></p>.",
-  },
   {
     title: "Polytechnic Karate Club",
     cardImage: "assets/images/experience-page/INKAI.png",
@@ -117,7 +118,7 @@ const mentor = [
   {
     title: "Best Graduated In Associate's Computer Engineering Degree",
     subtitle: "2021 | Harapan Bersama Polytechnic",
-    image: "assets/images/experience-page/wisuda.jpg",
+    image: "assets/images/experience-page/Wisuda.jpg",
     desp: "Maxima Cumlaude Predicate GPA 4.00.",
   },
   {
